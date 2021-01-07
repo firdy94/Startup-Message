@@ -10,14 +10,9 @@ The text files containing quotes and adjectives were manually scrapped off the i
 Example output of script running:
 
 
-__          __ ______  _        _____   ____   __  __  ______   ______  _____  _____   _____             _    _   _____  _ 
-\ \        / /|  ____|| |      / ____| / __ \ |  \/  ||  ____| |  ____||_   _||  __ \ |  __ \     /\    | |  | | / ____|| |
- \ \  /\  / / | |__   | |     | |     | |  | || \  / || |__    | |__     | |  | |__) || |  | |   /  \   | |  | || (___  | |
-  \ \/  \/ /  |  __|  | |     | |     | |  | || |\/| ||  __|   |  __|    | |  |  _  / | |  | |  / /\ \  | |  | | \___ \ | |
-   \  /\  /   | |____ | |____ | |____ | |__| || |  | || |____  | |      _| |_ | | \ \ | |__| | / ____ \ | |__| | ____) ||_|
-    \/  \/    |______||______| \_____| \____/ |_|  |_||______| |_|     |_____||_|  \_\|_____/ /_/    \_\ \____/ |_____/ (_)
-                                                                                                                           
-                                                                                                                           
+![Welcome Message Header](https://user-images.githubusercontent.com/70014203/103855369-7ed08c80-50ed-11eb-95e9-5fab15713021.png)
+
+                                                                                                                                                                                                                                                  
 
 On this fine day in beautiful Singapore, this is what the weather looks like now: 
 
