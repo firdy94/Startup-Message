@@ -1,3 +1,5 @@
+# Startup Message
+
 Script that prints welcome message when run. Script also fetches weather information as well as sunrise/sunset timings from openweather.com API and prints formatted messages and the corresponding weather visual in ASCII form.
 
 Using the resource files in the folder, the script randomly selects quotes and adjectives to print motivational formatted messages.
